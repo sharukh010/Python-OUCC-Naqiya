@@ -39,7 +39,9 @@ sentence = sentence.strip()
 # print("-".join(("a","b","c","d")))
 
 
-print("9".isdigit())
-print("9A".isalnum())
-print("naqiya".isalpha())
-print("naqiya last name".replace(" ",""))
+# print("9".isdigit())
+# print("9A".isalnum())
+# print("naqiya".isalpha())
+# print("naqiya last name".replace(" ",""))
+
+print(len("naqiya"))
